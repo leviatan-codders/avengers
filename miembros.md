@@ -2,3 +2,4 @@
 
 * Black
 * Capitan Marvel
+* Nick Fury
