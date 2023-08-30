@@ -2,4 +2,3 @@
 
 * Black
 * Capitan Marvel
-* Capitan America
